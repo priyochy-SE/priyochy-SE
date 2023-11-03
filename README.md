@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Priyabrata Chowdhury</h1>
+<h1 align="center">Hi 👋, I'm Priyabrata Chowdhury</h1>
 <div align="center"> <img src="https://github.com/priyochy-SE/priyochy-SE/blob/main/PRIYO%20IT%20Cover%20Page.png"> </div>
 <h3 align="center">B.Sc. (Engg.) in Computer Science and Engineering</h3>
 
