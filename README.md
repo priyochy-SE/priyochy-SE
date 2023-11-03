@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyochy-se&label=Profile%20views&color=0e75b6&style=flat" alt="priyochy-se" /> </p>
 
-- 🔭 I’m currently working on [Scientific Calculator](https://github.com/priyochy-SE/OOP-LAB-124/Laboratories Final Project/Scientific_Calculator_Project.java)
+- 🔭 I’m currently working on Scientific Calculator
 
 - 🌱 I’m currently learning **Java Programming Language**
 
