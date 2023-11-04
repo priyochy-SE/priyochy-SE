@@ -2,7 +2,7 @@
 <div align="center"> <img src="https://github.com/priyochy-SE/priyochy-SE/blob/main/PRIYO%20IT%20Cover%20Page.png"> </div>
 <h3 align="center">B.Sc. (Engg.) in Computer Science and Engineering</h3>
 
-<img align="right" alt="Coding" width="400" src="![Coding](https://github.com/priyochy-SE/priyochy-SE/assets/142817175/b06e5c06-95d8-4270-b8fb-bf2198f9cff7)">
+<img align="right" alt="Coding" width="400" src="https://github.com/priyochy-SE/priyochy-SE/assets/142817175/b06e5c06-95d8-4270-b8fb-bf2198f9cff7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyochy-se&label=Profile%20views&color=0e75b6&style=flat" alt="priyochy-se" /> </p>
 
